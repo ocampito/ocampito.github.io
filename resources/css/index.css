@@ -1,0 +1,46 @@
+.navbar {
+    background-color: white;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+
+
+.navbar li {
+    display: inline-block;
+    padding: 30px 20px;
+
+}
+
+
+#banano-banner {
+    height: 600px;
+    filter: drop-shadow(1px 1px 1px black);
+
+}
+
+.banner {
+    margin-top: 120px;
+}
+
+#banano {
+    font-size: 100px;
+}
+
+.banano-section {
+    padding: 20px 50px;
+}
+
+.avatar {
+    background-image: url(../images/banann.png);
+    background-size: cover;
+    height: 50px;
+    width: 80px;
+    border-radius: 50% ;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.twit ul {
+    list-style-type: none;
+}
